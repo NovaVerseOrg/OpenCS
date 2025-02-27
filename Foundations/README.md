@@ -182,7 +182,7 @@ C is the recommended programming language for this module. It is essential for s
 
 This module incorporates highly regarded resources to provide a rigorous and comprehensive learning experience. We encourage you to dedicate significant time to mastering these concepts. Don't just complete the assignments; strive to deeply understand the underlying principles.
 
-### Course 1: Build a Modern Computer from First Principles: From Nand to Tetris (Parts I & II)
+### Course 6: Build a Modern Computer from First Principles: From Nand to Tetris (Parts I & II)
 
 This project-based learning experience allows you to build a computer from the ground up, starting with logic gates and ending with a working software hierarchy. It provides an unparalleled understanding of how hardware and software interact.
 
@@ -192,7 +192,7 @@ This project-based learning experience allows you to build a computer from the g
 - **Discussion:** \[Link to discussion forum]
 - **Mastery Hours:** Up to 120 hours (combined for both parts).
 
-### Course 2: Operating Systems: Three Easy Pieces
+### Course 7: Operating Systems: Three Easy Pieces
 
 This classic book (and accompanying materials) provides a clear and concise explanation of the core concepts of operating systems.
 
@@ -202,7 +202,7 @@ This classic book (and accompanying materials) provides a clear and concise expl
 - **Discussion:** \[Link to discussion forum]
 - **Mastery Hours:** Up to 100 hours.
 
-### Course 3: Computer Networking: A Top-Down Approach
+### Course 8: Computer Networking: A Top-Down Approach
 
 This widely used textbook provides a comprehensive introduction to computer networking. The "top-down" approach is effective for understanding how networks function at different layers. The inclusion of Wireshark Labs provides valuable practical experience.
 
@@ -243,9 +243,8 @@ The choice of programming language for this module will depend on the specific c
 - **Computer Graphics:** C++ is common due to performance. Python or JavaScript might be used depending on the course.
 - **Software Engineering:** Python, Java, or other widely used languages are possible.
 
-## Courses in This Module
 
-### Databases
+### Course 9: Databases
 
 - **Databases: Modeling and Theory:** (2 weeks, 10 hours/week)
   - **Prerequisites:** Programming Fundamentals
@@ -263,7 +262,7 @@ The choice of programming language for this module will depend on the specific c
   - **Discussion:** \[Link to discussion forum]
   - **Mastery Hours:** Up to 40 hours
 
-### Machine Learning
+### Course 10: Machine Learning
 
 - **Machine Learning:** (11 weeks, 9 hours/week)
   - **Prerequisites:** Basic coding
@@ -271,7 +270,7 @@ The choice of programming language for this module will depend on the specific c
   - **Discussion:** \[Link to discussion forum]
   - **Mastery Hours:** Up to 100 hours
 
-### Computer Graphics
+### Course 11: Computer Graphics
 
 - **Computer Graphics:** (6 weeks, 12 hours/week)
   - **Prerequisites:** C++ or Java, linear algebra
@@ -279,7 +278,7 @@ The choice of programming language for this module will depend on the specific c
   - **Discussion:** \[Link to discussion forum]
   - **Mastery Hours:** Up to 80 hours
 
-### Software Engineering
+### Course 12: Software Engineering
 
 - **Software Engineering: Introduction:** (6 weeks, 8-10 hours/week)
   - **Prerequisites:** Programming Fundamentals and Foundational Systems
@@ -308,9 +307,8 @@ By the end of this module, you will be able to:
 *   **Computational Complexity:** Understand the concepts of P and NP, and the limitations of computation.
 *   **Ethics:**  Analyze the ethical implications of technology, understand intellectual property rights, and consider data privacy issues.
 
-## Courses in This Module
 
-### Algorithms and Computation
+### Course 13: Algorithms and Computation
 
 *   **Divide and Conquer, Sorting and Searching, and Randomized Algorithms:** (4 weeks)
     *   **Prerequisites:** Any programming language, Mathematics for Computer Science
@@ -333,7 +331,7 @@ By the end of this module, you will be able to:
     *   **Discussion:** \[Link to discussion forum]
     *   **Mastery Hours:** Up to 80 hours
 
-### Ethics and Professionalism
+### Course 14: Ethics and Professionalism
 
 *   **Ethics, Technology and Engineering:** (9 weeks)
     *   **Prerequisites:** None
