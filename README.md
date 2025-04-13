@@ -47,7 +47,6 @@ OpenCS is a Active Project of NovaVerseOrg, and we welcome contributions of all 
 - [Who is OpenCS For?](#who-is-opencs-for)
 - [Why OpenCS?](#why-opencs)
 - [Curriculum](#curriculum) 
-- [Prerequisites](#prerequisites) 
 
 
 
@@ -66,17 +65,17 @@ OpenCS is a Active Project of NovaVerseOrg, and we welcome contributions of all 
 
 ## How to Use OpenCS
 
-*   🔹 **Follow the Curriculum:** Start from the fundamentals and progressively move through intermediate and advanced topics.
-*   🔹 **Leverage the Resources:** Utilize carefully curated materials and detailed notes to accelerate your learning.
-*   🔹 **Work on Projects:** Apply theoretical knowledge to real-world scenarios, solidifying understanding and building a strong portfolio.
-*   🔹 **Engage with the Community:** Connect with other learners, contribute to open-source projects, and participate in discussions.
+*    **Follow the Curriculum:** Start from the fundamentals and progressively move through intermediate and advanced topics.
+*    **Leverage the Resources:** Utilize carefully curated materials and detailed notes to accelerate your learning.
+*    **Work on Projects:** Apply theoretical knowledge to real-world scenarios, solidifying understanding and building a strong portfolio.
+*   **Engage with the Community:** Connect with other learners, contribute to open-source projects, and participate in discussions.
 
 ## Who is OpenCS For?
 
-*   🔹 **Self-Taught Learners:** Anyone seeking a structured and in-depth roadmap to master CS from scratch.
-*   🔹 **Aspiring Researchers:** Individuals aiming to specialize in AI, Quantum Computing, Cryptography, or Theoretical CS.
-*   🔹 **Tech Professionals:** Developers looking to deepen their expertise or transition into advanced CS fields.
-*   🔹 **University Students:** Those who want to supplement their degree with additional structured learning.
+* **Self-Taught Learners:** Anyone seeking a structured and in-depth roadmap to master CS from scratch.
+*   **Aspiring Researchers:** Individuals aiming to specialize in AI, Quantum Computing, Cryptography, or Theoretical CS.
+*   **Tech Professionals:** Developers looking to deepen their expertise or transition into advanced CS fields.
+*   **University Students:** Those who want to supplement their degree with additional structured learning.
 
 ## Why OpenCS?
 
@@ -103,10 +102,10 @@ This Phase covers the essential knowledge and skills that all computer science g
 
 | CS Core Field | Core Topics Covered | Module Link |
 |---|---|---|
-| **Programming Fundamentals** | Python, C++, Object-Oriented Programming, Software Engineering Principles | [Module 1: Programming Fundamentals](./Foundations/README.md#module-1-programming-fundamentals) |
-| **Mathematical Foundations** | Discrete Mathematics, Probability, Statistics, Linear Algebra | [Module 2: Mathematical Foundations](./Foundations/README.md#module-2-mathematical-foundations) |
-| **Foundational Systems** | Computer Architecture, Operating Systems, Computer Networking | [Module 3: Foundational Systems](./Foundations/README.md#module-3-foundational-systems) |
-| **Foundational Applications** | Databases, Machine Learning, Computer Graphics, Software Engineering | [Module 4: Foundational Applications](./Foundations/README.md#module-4-foundational-applications) |
-| **Fundamental Theory and Ethics** | Algorithms, Computational Complexity, Ethics, Intellectual Property, Data Privacy | [Module 5: Fundamental Theory and Ethics](./Foundations/README.md#module-5-fundamental-theory-and-ethics) |
+| **Programming Fundamentals** | Python, C++, Object-Oriented Programming, Software Engineering Principles | [Module 1: Programming Fundamentals](./Foundations/Module_1.md#module-1-programming-fundamentals) |
+| **Mathematical Foundations** | Discrete Mathematics, Probability, Statistics, Linear Algebra | [Module 2: Mathematical Foundations](./Foundations/Module_2.md#module-2-mathematical-foundations) |
+| **Foundational Systems** | Computer Architecture, Operating Systems, Computer Networking | [Module 3: Foundational Systems](./Foundations/Module_3.md#module-3-foundational-systems) |
+| **Foundational Applications** | Databases, Machine Learning, Computer Graphics, Software Engineering | [Module 4: Foundational Applications](./Foundations/Module_4.md#module-4-foundational-applications) |
+| **Fundamental Theory and Ethics** | Algorithms, Computational Complexity, Ethics, Intellectual Property, Data Privacy | [Module 5: Fundamental Theory and Ethics](./Foundations/Module_5.md#module-5-fundamental-theory-and-ethics) |
 
 ✅ **Every student must complete the CS Core before moving to Phase 2: Specialization Exploration.**
